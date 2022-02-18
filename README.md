@@ -13,7 +13,8 @@ After what seemed like an eternity working in finance (6 years) I decided that m
 
 **Bossa Studios** (Mar-19 to Jul-21)  
 _Management Accountant_
-BORING CUT THIS DOWN - MAYBE ADD SOMETHING ABOUT THE WORK WITH EXCEL VBA, TABLEAU, DATA MANIPULATION
+
+Remove as it's not software engineering related.. MAYBE ADD SOMETHING ABOUT THE WORK WITH EXCEL VBA, TABLEAU, DATA MANIPULATION
 
 - Managing and improving month end closing: supervise payroll, sales invoicing, supplier approvals/payments, treasury, accruals, month end journals, bank and control account recoliciliations
 - Preparing monthly management accounts - profits & loss, balance sheet and cashflow to budget
@@ -26,6 +27,8 @@ BORING CUT THIS DOWN - MAYBE ADD SOMETHING ABOUT THE WORK WITH EXCEL VBA, TABLEA
 
 **NBC Universal** (Mar-16 to Feb-19)  
 _Management Accountant_
+
+Same here.. could add how I enjoyed my time working with the SAP accounting software
 
 - Any experience relevent to software development
 
