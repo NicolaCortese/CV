@@ -1,6 +1,6 @@
 ## Nicola Cortese
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+After what seemed like an eternity working in finance (6 years) I decided that maybe my side-dabbling in programming could turn into something more. I'm excited to start my journey at Makers and to fill this CV with cool projects and stuff.. 
 
 ## Projects
 
@@ -11,12 +11,20 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 
 ## Work Experience
 
-**Bossa Studios** (start-date to end-date)  
+**Bossa Studios** (Mar-19 to Jul-21)  
 _Management Accountant_
+BORING CUT THIS DOWN - MAYBE ADD SOMETHING ABOUT THE WORK WITH EXCEL VBA, TABLEAU, DATA MANIPULATION
 
-- Any experience, including roles and responsibilities and results achived in bullet point format.
+- Managing and improving month end closing: supervise payroll, sales invoicing, supplier approvals/payments, treasury, accruals, month end journals, bank and control account recoliciliations
+- Preparing monthly management accounts - profits & loss, balance sheet and cashflow to budget
+- Business partnering with other departments across the business to explain financial results and provide project data
+- Supporting the Financial Controller and Finance Director with the forecast and budgeting process, quarterly/mid-year forecast, 24/36 month plans & cash forecasts
+- Tracking spending - variance analysis to budgets
+- Analyse financial performance - continuosly looking for opportunities to reduce costs/improve cash
+- Providing information for annual financial statements, audits and tax returns
+- Review and improve current finance systems, business controls and processes
 
-**NBC Universal** (start-date to end-date)  
+**NBC Universal** (Mar-16 to Feb-19)  
 _Management Accountant_
 
 - Any experience relevent to software development
@@ -53,7 +61,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (Feb-22 to May-22)
 - Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
 - e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
 - you might also mention aspects some other skills/knowledge listed below: 
@@ -62,11 +70,11 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### Bayes Business School (start_date to end_date)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- BSc Hons Business Studies with specialization in Finance
+- Grade: 2:1
+- Activities and societies: City University Mountaineering Club
 
 #### Any other qualifications
 
