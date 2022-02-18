@@ -70,7 +70,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Bayes Business School (start_date to end_date)
+#### Bayes Business School (Sep-11 to Jul-15)
 
 - BSc Hons Business Studies with specialization in Finance
 - Grade: 2:1
