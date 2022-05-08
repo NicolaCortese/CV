@@ -1,13 +1,13 @@
 ## Nicola Cortese
 
-After what seemed like an eternity working in finance (6 years) I decided that maybe my side-dabbling in programming could turn into something more. I'm really excited to have started my journey as a developer. At Makers I've had the opportunity to meet incredible people and to fill this CV with interesting projects and stuff
+After what seemed like an eternity working in finance (6 years) I decided that maybe my side-dabbling in programming could turn into something more. I'm really excited to have started my journey as a developer. At Makers I've had the opportunity to meet incredible people and to fill this CV with interesting projects and experiences
 
 ## Projects
 
-| Name                         | Description       | Tech/tools        |
-| ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+| Name                         | Description       | Tech/tools            |
+| ---------------------------- | ----------------- | --------------------  |
+| **Tom's Escape**             | Online escape room| React, Jest, MongoDB |
+| **Nachos Libre**             | A social network to meet other nachos | JavaScript, Handlebars, MongoDB, Mongoose, Node.js, Express     |
 
 ## Work Experience
 
