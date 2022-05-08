@@ -1,6 +1,6 @@
 ## Nicola Cortese
 
-After what seemed like an eternity working in finance (6 years) I decided that maybe my side-dabbling in programming could turn into something more. I'm excited to start my journey at Makers and to fill this CV with cool projects and stuff.. 
+After what seemed like an eternity working in finance (6 years) I decided that maybe my side-dabbling in programming could turn into something more. I'm really excited to have started my journey as a developer. At Makers I've had the opportunity to meet incredible people and to fill this CV with interesting projects and stuff
 
 ## Projects
 
