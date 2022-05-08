@@ -6,9 +6,9 @@ After what seemed like an eternity working in finance (6 years) I decided that m
 
 | Name                         | Description       | Tech/tools            |
 | ---------------------------- | ----------------- | --------------------  |
-| **Tom's Escape (WIP)**             | Online escape room| React, Node.js, Express, Mongoose, MongoDB, Jest |
-| **Nachos Libre**             | A social network to meet other nachos | JavaScript, Handlebars, MongoDB, Mongoose, Node.js, Express, Jest     |
-| **Makers BnB**             | Platform for renting out spaces | Ruby, Sinatra, ActiveRecord, PostgreSQL, Rspec, Capybara |
+| [**Tom's Escape (WIP)**](https://github.com/jam9304/toms-escape-game)             | Online escape room| React, Node.js, Express, Mongoose, MongoDB, Jest |
+| [**Nacho Libre**](https://github.com/NicolaCortese/Acebook-nacho-libro)             | A social network to meet other nachos | JavaScript, Handlebars, MongoDB, Mongoose, Node.js, Express, Jest     |
+| [**Makers BnB**](https://github.com/NicolaCortese/MakersBnB)             | Platform for renting out spaces | Ruby, Sinatra, ActiveRecord, PostgreSQL, Rspec, Capybara |
 
 ## Work Experience
 
